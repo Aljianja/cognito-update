@@ -6,10 +6,6 @@
   </a>
 </p>
 
-## Author
-
-👤 **RAHARINALAMANGA Rovanirina Kanto**
-
 ## Run
 Change all configs with `// TODO:` in `config.ts` 
 
